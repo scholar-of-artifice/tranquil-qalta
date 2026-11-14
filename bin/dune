@@ -1,0 +1,4 @@
+(executable
+ (public_name tranquil-qalta)
+ (name main)
+ (libraries tranquil_qalta))
