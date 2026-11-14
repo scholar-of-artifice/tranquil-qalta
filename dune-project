@@ -19,7 +19,10 @@
  (name tranquil-qalta)
  (synopsis "A short synopsis")
  (description "A longer description")
- (depends ocaml)
+ (depends 
+  ocaml
+  dune
+  (ppx_expect :with-test))
  (tags
   ("add topics" "to describe" your project)))
 
