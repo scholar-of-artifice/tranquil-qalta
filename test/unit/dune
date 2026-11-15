@@ -1,0 +1,6 @@
+(library
+ (name test_tranquil_qalta_unit)
+ (libraries tranquil_qalta)
+ (inline_tests)
+ (preprocess
+  (pps ppx_expect)))
