@@ -49,9 +49,11 @@ I am a rather demanding for documentation. Its hard to write but is important as
 - Fully documented APIs and internal modules using `odoc` compatible comments.
 - Engineering realted documents in the related project directory.
 
-### Community Contributions not Accepted Yet...
+### Contributing
 
-I am one person and I am learning OCaml.
-I am open to any advice and challenges on this project.
-Please reach out to me.
-If you really want to contribute then I will set up things for us to team up.
+Contributions are welcome. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for build and test
+instructions, the pull-request flow, and the current list of
+[good first issues](CONTRIBUTING.md#good-first-issues).
+
+All contributors are expected to follow the
+[`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
